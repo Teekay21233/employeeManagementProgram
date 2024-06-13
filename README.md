@@ -11,6 +11,10 @@ This documentation provides an overview of the program's functionality, usage in
   
 - **Displaying Employee List**: At the end of the program, the updated list of employees (including their IDs, names, and salaries) is displayed.
 
+- **Unique ID Validation**: Ensures that each employee ID entered is unique and prompts the user to enter a different ID if a duplicate is found.
+
+- **Employee ID Validation for Salary Update**: Checks if the entered employee ID exists when updating the salary. If the ID is not found, an appropriate message is displayed.
+
 ## How to Use
 
 1. **Run the Program**: Execute the program in a Java IDE or command line.
