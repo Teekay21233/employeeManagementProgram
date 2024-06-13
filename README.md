@@ -40,7 +40,6 @@ This documentation provides an overview of the program's functionality, usage in
 
 ## Notes
 
-- Ensure that each employee ID is unique to avoid conflicts during the addition and updating of employee records.
 - The program demonstrates basic object-oriented programming concepts in Java, including class design, encapsulation, and method overriding.
 
 ## Code Overview
