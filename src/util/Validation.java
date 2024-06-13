@@ -1,3 +1,7 @@
+package util;
+
+import entities.Funcionario;
+
 import java.util.List;
 
 public class Validation {

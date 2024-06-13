@@ -1,3 +1,5 @@
+package entities;
+
 public class Funcionario {
 
     private Integer ID;
